@@ -1,10 +1,10 @@
 {
   "AdsController": {
       
-    "Banner_Network"               : "vungle",
-    "Native_Network"               : "vungle",
-    "Interstitial_Network"         : "vungle",
-    "Reward_Network"               : "vungle",
+    "Banner_Network"               : "unity",
+    "Native_Network"               : "unity",
+    "Interstitial_Network"         : "unity",
+    "Reward_Network"               : "unity",
     
     
     "Applovin_Banner"         : "a5f235ba1320fb35",
