@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "Banner_Network"               : "unity",
+    "Banner_Network"               : "vungle",
     "Native_Network"               : "vungle",
     "Interstitial_Network"         : "vungle",
     "Reward_Network"               : "vungle",
@@ -12,14 +12,14 @@
     "Applovin_Native"         : "76af75d288a7ada9",
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     
-    "Vungle_AppKey"           : "644bbcf6abeffd039af2dc03",
-    "Vungle_Banner"           : "SDSDS-4073883",
-    "Vungle_InterstitialAd"   : "INTERSS-8294362",
-    "Vungle_Native"           : "SDSDS-4073883",
-    "Vungle_RewardAd"         : "REWARDVU-1233551",
+    "Vungle_AppKey"           : "65c14b469a4122e9e0de59ef",
+    "Vungle_Banner"           : "MERMAID_B-2040735",
+    "Vungle_InterstitialAd"   : "DEFAULT-0757934",
+    "Vungle_Native"           : "MERMAID_N-3367683",
+    "Vungle_RewardAd"         : "MERMAID1-3518773",
 
     
-    "Unity_GameID"           : "4914319",
+    "Unity_GameID"           : "5539764",
     "Unity_Banner"           : "Banner_Android",
     "Unity_InterstitialAd"   : "Interstitial_Android",
     "Unity_RewardAd"         : "Rewarded_Android"
