@@ -1,37 +1,28 @@
 {
   "AdsController": {
       
-    "AdNetwork"         : "pangle",
+    "Banner_Network"               : "unity",
+    "Native_Network"               : "vungle",
+    "Interstitial_Network"         : "vungle",
+    "Reward_Network"               : "vungle",
     
-    "AdMob_ID"          : "pub-3940256099942544",
-    "AdMob_Banner"      : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"      : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
-    "Facebook_RewardAd"       : "692961278482629_857106118734810",
     
     "Applovin_Banner"         : "a5f235ba1320fb35",
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
     "Applovin_Native"         : "76af75d288a7ada9",
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     
-    "Pangle_AppKey"           : "8025677",
-    "Pangle_Banner"           : "980099802",
-    "Pangle_InterstitialAd"   : "980088188",
-    "Pangle_Native"           : "980088216",
-    "Pangle_RewardAd"         : "980088192",
+    "Vungle_AppKey"           : "644bbcf6abeffd039af2dc03",
+    "Vungle_Banner"           : "SDSDS-4073883",
+    "Vungle_InterstitialAd"   : "INTERSS-8294362",
+    "Vungle_Native"           : "SDSDS-4073883",
+    "Vungle_RewardAd"         : "REWARDVU-1233551",
 
     
-    "Unity_GameID"           : "4076527",
-    "Unity_Banner"           : "BannerAd",
-    "Unity_InterstitialAd"   : "InterstitialAd",
-    "Unity_RewardAd"         : "Rewarded_Android",
-
-    "IronSourceKey"          : "1197d7c85"
+    "Unity_GameID"           : "4914319",
+    "Unity_Banner"           : "Banner_Android",
+    "Unity_InterstitialAd"   : "Interstitial_Android",
+    "Unity_RewardAd"         : "Rewarded_Android"
   },
   
   "Maps": [
@@ -63,7 +54,7 @@
   
   
   "Skins" :[
-     {"preview": "https://www.minecraftskins.com/uploads/preview-skins/2024/01/04/--black-depths---22232355.png?v609","texture": "https://www.minecraftskins.com/uploads/skins/2024/01/04/--black-depths---22232355.png?v609","locked" : false},
+{"preview": "https://www.minecraftskins.com/uploads/preview-skins/2024/01/04/--black-depths---22232355.png?v609","texture": "https://www.minecraftskins.com/uploads/skins/2024/01/04/--black-depths---22232355.png?v609","locked" : false},
 {"preview": "https://www.minecraftskins.com/uploads/preview-skins/2024/01/04/-there-is-nothing-can-console-me-but-my-jolly-sailor-bold---reshade-contest-22232095.png?v609","texture": "https://www.minecraftskins.com/uploads/skins/2024/01/04/-there-is-nothing-can-console-me-but-my-jolly-sailor-bold---reshade-contest-22232095.png?v609","locked" : false},
 {"preview": "https://www.minecraftskins.com/uploads/preview-skins/2024/01/04/---swimming----22231695.png?v609","texture": "https://www.minecraftskins.com/uploads/skins/2024/01/04/---swimming----22231695.png?v609","locked" : false},
 {"preview": "https://www.minecraftskins.com/uploads/preview-skins/2024/01/03/---swimming----22231562.png?v609","texture": "https://www.minecraftskins.com/uploads/skins/2024/01/03/---swimming----22231562.png?v609","locked" : false},
