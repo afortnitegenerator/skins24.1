@@ -1,37 +1,28 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "pangle",
+    "Banner_Network"               : "unity",
+    "Native_Network"               : "unity",
+    "Interstitial_Network"         : "unity",
+    "Reward_Network"               : "unity",
     
-    "AdMob_ID"                : "pub-3940256099942544",
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_Native"         : "692961278482629_857100538735368",
-    "Facebook_RewardAd"       : "692961278482629_857106118734810",
     
     "Applovin_Banner"         : "a5f235ba1320fb35",
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
     "Applovin_Native"         : "76af75d288a7ada9",
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     
-    "Pangle_AppKey"           : "8025677",
-    "Pangle_Banner"           : "980099802",
-    "Pangle_InterstitialAd"   : "980088188",
-    "Pangle_Native"           : "980088216",
-    "Pangle_RewardAd"         : "980088192",
+    "Vungle_AppKey"           : "65c14b469a4122e9e0de59ef",
+    "Vungle_Banner"           : "MERMAIDS_TST_BB-0103894",
+    "Vungle_InterstitialAd"   : "MERMAIDS_TST-2981840",
+    "Vungle_Native"           : "MERMAIDS_TST_B-7140567",
+    "Vungle_RewardAd"         : "MERMAIDS_TST_R-1828449",
 
     
-    "Unity_GameID"           : "4076527",
-    "Unity_Banner"           : "BannerAd",
-    "Unity_InterstitialAd"   : "InterstitialAd",
-    "Unity_RewardAd"         : "Rewarded_Android",
-
-    "IronSourceKey"          : "1197d7c85"
+    "Unity_GameID"           : "5380840",
+    "Unity_Banner"           : "Banner_Android",
+    "Unity_InterstitialAd"   : "Interstitial_Android",
+    "Unity_RewardAd"         : "Rewarded_Android"
   },
   
   "Maps": [
