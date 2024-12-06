@@ -1,10 +1,10 @@
 {
   "AdsController": {
       
-    "Banner_Network"               : "max",
-    "Native_Network"               : "max",
-    "Interstitial_Network"         : "max",
-    "Reward_Network"               : "max",
+    "Banner_Network"               : "unity",
+    "Native_Network"               : "unity",
+    "Interstitial_Network"         : "unity",
+    "Reward_Network"               : "unity",
     
     
     "Applovin_Banner"         : "2657a7fba91922d9",
@@ -19,7 +19,7 @@
     "Vungle_RewardAd"         : "REWARDED_COM_SKINS_MINECRAFT_POKEMON-1848274",
 
    
-    "Unity_GameID"           : "5380841",
+    "Unity_GameID"           : "5380840",
     "Unity_Banner"           : "Banner_Android",
     "Unity_InterstitialAd"   : "Interstitial_Android",
     "Unity_RewardAd"         : "Rewarded_Android"
