@@ -20,9 +20,9 @@
 
    
     "Unity_GameID"           : "5380840",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "Rewarded_Android"
+    "Unity_Banner"           : "Banner_Android_Bidding",
+    "Unity_InterstitialAd"   : "Interstitial_Android_Bidding",
+    "Unity_RewardAd"         : "Rewarded_Android_Bidding"
   },
   
   "Maps": [
