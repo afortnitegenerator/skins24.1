@@ -1,38 +1,29 @@
 {
-  "AdsController": {
+"AdsController": {
+ 
+ "Banner_Network": "max",
+ "Native_Network": "max",
+ "Interstitial_Network" : "max",
+ "Reward_Network": "max",
+ 
+ 
+ "Applovin_Banner" : "2ab1ca4c50d4228f",
+ "Applovin_InterstitialAd" : "a356bbba5754dc91",
+ "Applovin_Native" : "2d1b1dcedbbb0384",
+ "Applovin_RewardAd": "52bb84157967d010",
+ 
+ "Vungle_AppKey" : "672b85b3640cc01ab98aa357",
+ "Vungle_Banner" : "BANNER_COM_SKINS_MINECRAFT_POKEMON-4481784",
+ "Vungle_InterstitialAd": "INTER_COM_SKINS_MINECRAFT_POKEMON-4475209",
+ "Vungle_Native" : "NATIV_COM_SKINS_MINECRAFT_POKEMON-5706770",
+ "Vungle_RewardAd" : "REWARDED_COM_SKINS_MINECRAFT_POKEMON-1848274",
 
- "AdNetwork" : "pangle",
-    
- "AdMob_ID"  : "pub-3940256099942544",
- "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
- "AdMob_InterstitialAd"  : "ca-app-pub-3940256099942544/1033173712",
- "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
- "AdMob_RewardAd"  : "ca-app-pub-3940256099942544/5224354917",
-    
- "Facebook_Banner" : "692961278482629_692963411815749",
- "Facebook_InterstitialAd" : "692961278482629_692963491815741",
- "Facebook_Native" : "692961278482629_857100538735368",
- "Facebook_RewardAd" : "692961278482629_857106118734810",
-    
- "Applovin_Banner" : "a5f235ba1320fb35",
- "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
- "Applovin_Native" : "76af75d288a7ada9",
- "Applovin_RewardAd" : "76af75d288a7ada9",
-    
- "Pangle_AppKey"   : "8025677",
- "Pangle_Banner"   : "980099802",
- "Pangle_InterstitialAd" : "980088188",
- "Pangle_Native"   : "980088216",
- "Pangle_RewardAd" : "980088192",
 
-    
- "Unity_GameID"   : "4076527",
- "Unity_Banner"   : "BannerAd",
- "Unity_InterstitialAd" : "InterstitialAd",
- "Unity_RewardAd" : "Rewarded_Android",
-
- "IronSourceKey"  : "1197d7c85"
-  },
+ "Unity_GameID" : "5380841",
+ "Unity_Banner" : "Banner_Android",
+ "Unity_InterstitialAd": "Interstitial_Android",
+ "Unity_RewardAd" : "Rewarded_Android"
+},
   
   "Maps": [
 
