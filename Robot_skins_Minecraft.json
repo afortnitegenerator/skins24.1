@@ -1,23 +1,5 @@
 {
-   "AdsController":{
-      "Banner_Network":"max",
-      "Native_Network":"max",
-      "Interstitial_Network":"max",
-      "Reward_Network":"max",
-      "Applovin_Banner":"2ab1ca4c50d4228f",
-      "Applovin_InterstitialAd":"a356bbba5754dc91",
-      "Applovin_Native":"2d1b1dcedbbb0384",
-      "Applovin_RewardAd":"52bb84157967d010",
-      "Vungle_AppKey":"672b85b3640cc01ab98aa357",
-      "Vungle_Banner":"BANNER_COM_SKINS_MINECRAFT_POKEMON-4481784",
-      "Vungle_InterstitialAd":"INTER_COM_SKINS_MINECRAFT_POKEMON-4475209",
-      "Vungle_Native":"NATIV_COM_SKINS_MINECRAFT_POKEMON-5706770",
-      "Vungle_RewardAd":"REWARDED_COM_SKINS_MINECRAFT_POKEMON-1848274",
-      "Unity_GameID":"5380841",
-      "Unity_Banner":"Banner_Android",
-      "Unity_InterstitialAd":"Interstitial_Android",
-      "Unity_RewardAd":"Rewarded_Android"
-   },
+   
    "Maps":[
       {
          "title":"Mod:   Minecraft",
