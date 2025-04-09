@@ -3,81 +3,19 @@
 
 "Maps": [
 
- {
-"title": "Mod:Minecraft",
-"mapLink": "https://mcpeland.io/index.php?do=download&id=2148",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Addon, adds characters from the game",
-"preview": [
  
-"https://mcpeland.io/uploads/posts/2024-11/sprunki.png"
-]
- },
-
- 
-
- 
-{ "title": "Asgore",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Asgore/mAsgore.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale",
- "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Asgore/Asgore.jpg"]},
-
- 
-{ "title": "Asriel Drimmurr",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Asriel%20Drimmurr/mAsriel%20Drimmurr.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Asriel%20Drimmurr/Asriel%20Drimmurr.jpg"]},
-
- 
-{ "title": "Flowie",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Flowie/mFlowie.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Flowie/Flowie.jpg"]},
-
- 
-{ "title": "Frisk",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Frisk/mFrisk.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Frisk/Frisk.jpg"]},
-
- 
-{ "title": "Grilby",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Grilby/mGrilby.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Grilby/Grilby.jpg"]},
-
- 
-{ "title": "Little Dog",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Little%20Dog/mLittle%20Dog.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Little%20Dog/Little%20Dog.jpg"]},
-
- 
-{ "title": "Nps Sans",
-"mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Nps%20Sans/mNps%20Sans.zip",
-"isLocked" : false ,
-"coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Nps%20Sans/Nps%20Sans.jpg"]},
 
  
 { "title": "Sans Paps Bones",
 "mapLink": "https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%20Paps%20Bones/mSans%20Paps%20Bones.zip",
 "isLocked" : false ,
 "coins" : 0 ,
-"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%20Paps%20Bones/Sans%20Paps%20Bones.jpg"]},
+"description": "Undertale", "preview": ["https://aweu.net/MOD%20MELON/Mantingan/Sans/Sans%2ps%20Bones/Sans%20Paps%20Bones.jpg"]},
  
 
  
 { "title": "Tank T72BZ",
-"mapLink": "https://aweu.net/MELONMASTER/Tank/Tank%20T72BZ/S%20Tank%20T72BZ.zip",
+"mapLink": "https://aweu.net/MELONMASTER/Tank/Tank%20T72BZ/S%20nk%20T72BZ.zip",
 "isLocked" : false ,
 "coins" : 0 ,
 "description": "Tank",
