@@ -4,293 +4,40 @@
 "Maps": [
 
  {
-    "title": "Iris Shaders",
+"title": "Mod:Minecraft",
+"mapLink": "https://mcpeland.io/index.php?do=download&id=2148",
+"isLocked" : false ,
+"coins" : 0 ,
+"description": "Addon, adds characters from the game",
+"preview": [
+ 
+"https://mcpeland.io/uploads/posts/2024-11/sprunki.png"
+]
+ },
+
+ 
+
+ {
+    "title": "Mod: Modern Furniture",
     "mapLink": "https://minecraft-inside.ru/download/149349/",
     "isLocked": false,
     "coins": 0,
-    "description": "Iris Shaders is an open-source rendering engine mod based on Sodium, adding support for existing shaders in Minecraft. It enables the use of shaders previously designed for OptiFine, enhancing the game's visual effects.",
-    "preview": ["https://minecraft-inside.ru/uploads/files/2021-08/thumb/bsl-shaders-minecraft-desert.jpg"]
+    "description": "With the Modern Furniture mod, in Minecraft will be added more than 40 new furniture blocks with which you can create a modern interior…",
+    "preview": [
+      "https://modscraft.net/uploads/posts/2022-08/1660580115_modern-furniture.jpg"
+    ]
   },
   {
-    "title": "Philips Ruins",
-    "mapLink": "https://minecraft-inside.ru/download/156735/",
+    "title": "Mod: Morphing Bracelet",
+    "mapLink": "https://modscraft.net/en/mods/7727-morph-addon.html",
     "isLocked": false,
     "coins": 0,
-    "description": "Philips Ruins adds ancient and mysterious ruins scattered throughout the Minecraft world, offering players new exploration opportunities and hidden treasures.",
-    "preview": ["https://minecraft-inside.ru/img/mods/156735/philips-ruins.jpg"]
-  },
-  {
-    "title": "EMI (Item and Recipe Viewer)",
-    "mapLink": "https://minecraft-inside.ru/download/159594/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "EMI is a lightweight item and recipe viewer for Minecraft, providing players with an easy-to-use interface to browse items and crafting recipes.",
-    "preview": ["https://minecraft-inside.ru/img/mods/159594/emi.jpg"]
-  },
-  {
-    "title": "NeoForge",
-    "mapLink": "https://minecraft-inside.ru/download/395949/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "NeoForge is a fork of the popular Forge mod loader, created due to disagreements within the development team. It aims to maintain compatibility with Forge mods while introducing its own improvements.",
-    "preview": ["https://minecraft-inside.ru/img/mods/169475/neoforge.jpg"]
-  },
-  {
-    "title": "Fantazia",
-    "mapLink": "https://minecraft-inside.ru/download/396969/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Fantazia is a magical mod that adds new artifacts, effects, enchantments, and introduces entirely new mechanics such as magical spells, auras, and abilities.",
-    "preview": ["https://minecraft-inside.ru/img/mods/179284/fantazia.jpg"]
-  },
-  {
-    "title": "The Legend of Steve",
-    "mapLink": "https://minecraft-inside.ru/download/394764/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "The Legend of Steve is an adventure mod that immerses players in a rich storyline, introducing new quests, characters, and challenges to enhance the Minecraft experience.",
-    "preview": ["https://minecraft-inside.ru/img/mods/181070/the-legend-of-steve.jpg"]
-  },
-  {
-    "title": "Risus: The Joyplague",
-    "mapLink": "https://minecraft-inside.ru/download/394765/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Risus: The Joyplague is a horror-themed mod that introduces a mysterious plague spreading joy in unsettling ways, adding eerie atmospheres and challenging gameplay elements.",
-    "preview": ["https://minecraft-inside.ru/img/mods/181589/risus-the-joyplague.jpg"]
-  },
-  {
-    "title": "Ghasts Update",
-    "mapLink": "https://minecraft-inside.ru/download/392722/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Ghasts Update adds new ghast variants inspired by the Minecraft Live 2025 announcement. Players can find dried ghast blocks in the Nether, which, when placed in water, transform into ghastlings. Feeding ghastlings with snowballs turns them into happy ghasts—loyal companions you can ride with friends.",
-    "preview": ["https://minecraft-inside.ru/img/mods/183855/ghasts-update.jpg"]
-  },
-  {
-    "title": "Found Footage",
-    "mapLink": "https://drive.google.com/file/d/1S1Ok2X-JBAzHpBulLfar8GJDalHN3AfW/view?usp=sharing",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Found Footage is a mod designed to bring the unique atmosphere and visual style of 'found footage' (backrooms) videos into Minecraft. To enter the backrooms, place two sand or gravel blocks above you to start suffocating.",
-    "preview": ["https://minecraft-inside.ru/img/mods/183963/found-footage.jpg"]
-  },
-  {
-    "title": "SSM: Reborn",
-    "mapLink": "https://minecraft-inside.ru/download/394764/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "SSM: Reborn is inspired by the story-driven seasons of Lololoshka (Roman Filchenkov). It's an official port/rework of the 'SSM|Strange Multiverse Oddities' mod, adding 9 new dimensions with unique conditions, over 200 items from various seasons, and a wealth of new functionality.",
-    "preview": ["https://minecraft-inside.ru/img/mods/183990/ssm-reborn.jpg"]
-  },
-  {
-    "title": "Pocket Repose",
-    "mapLink": "https://minecraft-inside.ru/download/396958/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Pocket Repose is a mod that introduces a unique floating island biome, offering players new exploration opportunities and challenges in the sky.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184087/pocket-repose.jpg"]
-  },
-  {
-    "title": "Ghasts Crash",
-    "mapLink": "https://minecraft-inside.ru/download/396962/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Ghasts Crash is a mod that enhances the Nether experience by introducing new ghast variants and behaviors, making encounters more dynamic and challenging.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184162/ghasts-crash.jpg"]
-  },
-  {
-    "title": "Truly Modular Arsenal",
-    "mapLink": "https://minecraft-inside.ru/download/396963/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Truly Modular Arsenal allows players to craft and customize weapons and tools with modular components, offering a flexible and personalized combat experience.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184313/truly-modular-arsenal.jpg"]
-  },
-  {
-    "title": "Seth's Better Armory",
-    "mapLink": "https://minecraft-inside.ru/download/396964/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Seth's Better Armory enhances the game's weaponry by adding a variety of new swords and tools, each with unique designs and abilities.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184315/seths-better-armory.jpg"]
-  },
-  {
-    "title": "Reldas Medieval Armor",
-    "mapLink": "https://minecraft-inside.ru/download/396959/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Reldas Medieval Armor offers a collection of medieval-themed armor sets inspired by works like The Lord of the Rings and Robin Hood, allowing players to immerse themselves in historical grandeur.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184316/reldas-medieval-armor.jpg"]
-  },
-  {
-    "title": "Mob Cursed Touch",
-    "mapLink": "https://minecraft-inside.ru/download/396960/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Mob Cursed Touch is a mod that introduces cursed variants of existing mobs, adding a new layer of challenge and unpredictability to the game.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184317/mob-cursed-touch.jpg"]
-  },
-  {
-    "title": "Easy Mailing",
-    "mapLink": "https://minecraft-inside.ru/download/396961/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Easy Mailing simplifies item transportation by allowing players to send items across distances using a mailbox system, enhancing logistics in the game.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184318/easy-mailing.jpg"]
-  },
-  {
-    "title": "Just Enough Items",
-    "mapLink": "https://minecraft-inside.ru/download/24358/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Just Enough Items (JEI) is a popular mod that provides an in-game item and recipe viewing interface, making it easier to browse and search for crafting recipes.",
-    "preview": ["https://minecraft-inside.ru/img/mods/24358/just-enough-items.jpg"]
-  },
-  {
-    "title": "Xaero's Minimap",
-    "mapLink": "https://minecraft-inside.ru/download/310/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Xaero's Minimap adds a customizable minimap to the game, displaying terrain, waypoints, and mob locations, aiding in navigation and exploration.",
-    "preview": ["https://minecraft-inside.ru/img/mods/310/xaeros-minimap.jpg"]
-  },
-  {
-    "title": "Prefab",
-    "mapLink": "https://minecraft-inside.ru/download/38072/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Prefab is a mod that allows players to instantly build various pre-designed structures, streamlining the building process and saving time.",
-    "preview": ["https://minecraft-inside.ru/img/mods/38072/prefab.jpg"]
-  },
-  {
-    "title": "Minecraft Forge",
-    "mapLink": "https://minecraft-inside.ru/download/395950/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Minecraft Forge is a modding API that facilitates the installation and compatibility of mods, serving as a foundation for many Minecraft modifications.",
-    "preview": ["https://minecraft-inside.ru/img/mods/8955/minecraft-forge.jpg"]
-  },
-  {
-    "title": "OptiFine HD",
-    "mapLink": "https://minecraft-inside.ru/download/395951/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "OptiFine HD is a performance optimization mod for Minecraft that enhances graphics and adds support for HD textures and shaders, improving the overall visual experience.",
-    "preview": ["https://minecraft-inside.ru/img/mods/8956/optifine-hd.jpg"]
-  },
-  {
-    "title": "JourneyMap",
-    "mapLink": "https://minecraft-inside.ru/download/395952/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "JourneyMap is a real-time mapping mod for Minecraft that allows players to view a detailed map of their world, set waypoints, and navigate more efficiently.",
-    "preview": ["https://minecraft-inside.ru/img/mods/9448/journeymap.jpg"]
-  },
-  {
-    "title": "Fabric",
-    "mapLink": "https://minecraft-inside.ru/download/395953/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Fabric is a lightweight and modular modding toolchain for Minecraft, providing a fast and efficient platform for mod developers and users.",
-    "preview": ["https://minecraft-inside.ru/img/mods/94668/fabric.jpg"]
-  },
-  {
-    "title": "Miz's Broom",
-    "mapLink": "https://minecraft-inside.ru/download/396966/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Miz's Broom is a mod that introduces a magical flying broomstick, allowing players to soar through the skies and explore their world from above.",
-    "preview": ["https://minecraft-inside.ru/img/mods/175972/mizs-broom.jpg"]
-  },
-  {
-    "title": "Hookshot from Zelda",
-    "mapLink": "https://minecraft-inside.ru/download/396967/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Hookshot from Zelda is a mod that adds the iconic hookshot tool, enabling players to grapple and swing across distances, inspired by The Legend of Zelda series.",
-    "preview": ["https://minecraft-inside.ru/img/mods/178136/hookshot-from-zelda.jpg"]
-  },
-  {
-    "title": "Ancient Golems",
-    "mapLink": "https://minecraft-inside.ru/download/396905/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Ancient Golems introduces mini-boss golems to Minecraft. The Origin Golem can be found near a stone grave in the forest and drops a sword fragment upon defeat, which can be upgraded to the Peacemaker. The Primal Ice Golem resides in a large igloo and drops primal ice as a weapon. The Molten Forge Golem roams the Nether and drops a molten helmet that grants permanent fire resistance.",
-    "preview": ["https://minecraft-inside.ru/img/mods/178689/ancient-golems.jpg"]
-  },
-  {
-    "title": "Legends Hero Reborn",
-    "mapLink": "https://minecraft-inside.ru/download/183134/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Legends Hero Reborn is a mod that revitalizes classic heroes of Minecraft, offering new abilities, quests, and lore that immerse players in a mythic adventure.",
-    "preview": ["https://minecraft-inside.ru/img/mods/183134/legends-hero-reborn.jpg"]
-  },
-  {
-    "title": "Bear Minimum",
-    "mapLink": "https://minecraft-inside.ru/download/184288/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Bear Minimum mod adds a challenging bear entity to the wilderness, forcing players to adapt to encounters with formidable creatures during their adventures.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184288/bear-minimum.jpg"]
-  },
-  {
-    "title": "Bloodmoon Update",
-    "mapLink": "https://minecraft-inside.ru/download/184289/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Bloodmoon Update intensifies gameplay with a dramatic bloodmoon event that increases mob aggression, making nights more perilous and exciting.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184289/bloodmoon-update.jpg"]
-  },
-  {
-    "title": "Chicken Jockey",
-    "mapLink": "https://minecraft-inside.ru/download/184290/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Chicken Jockey introduces quirky scenarios where various mobs can ride chickens, adding humor and unexpected challenges to the game.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184290/chicken-jockey.jpg"]
-  },
-  {
-    "title": "Trydeas: Meleez",
-    "mapLink": "https://minecraft-inside.ru/download/396861/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Trydeas: Meleez introduces over thirty melee weapons themed around a post-apocalyptic zombie invasion. Players can wield 3D-modeled weapons like axes, crowbars, wrenches, and even road signs to fend off hordes of zombies.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184292/trydeas-meleez.jpg"]
-  },
-  {
-    "title": "Dominatus",
-    "mapLink": "https://minecraft-inside.ru/download/396658/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Dominatus introduces various RPG mechanics into Minecraft, overhauling the vanilla critical hit system. Players and mobs can now perform critical hits and misses with damage numbers displayed above entities. Items no longer break but become unusable at 0 durability, and standard armor is weakened, requiring enhancement with special upgrade stones.",
-    "preview": ["https://minecraft-inside.ru/img/mods/184296/dominatus.jpg"]
-  },
-  {
-    "title": "Project Vibrant Journeys",
-    "mapLink": "https://minecraft-inside.ru/download/76416/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Project Vibrant Journeys is a mod that adds new biomes and adventure opportunities to Minecraft, enriching the world with vibrant, meticulously crafted environments that invite exploration and creativity.",
-    "preview": ["https://minecraft-inside.ru/img/mods/76416/project-vibrant-journeys.jpg"]
-  },
-  {
-    "title": "YDMS MobHealthBar",
-    "mapLink": "https://minecraft-inside.ru/download/153244/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "YDMS MobHealthBar adds a customizable health bar display for mobs in Minecraft, allowing players to easily view enemy health during combat and strategize their attacks accordingly.",
-    "preview": ["https://minecraft-inside.ru/img/mods/153244/ydms-mobhealthbar.jpg"]
-  },
-  {
-    "title": "Davdeos Item Magnet",
-    "mapLink": "https://minecraft-inside.ru/download/174952/",
-    "isLocked": false,
-    "coins": 0,
-    "description": "Davdeos Item Magnet is a mod that simplifies item collection by automatically attracting nearby dropped items to the player, streamlining resource gathering and inventory management.",
-    "preview": ["https://minecraft-inside.ru/img/mods/174952/davdeos-item-magnet.jpg"]
+    "description": "The Morphing Bracelet mod will add a special bracelet to Minecraft for turning into mobs. You will get their powers and abilities…",
+    "preview": [
+      "https://modscraft.net/uploads/posts/2022-08/1660486354_morphing-bracelet-addon.jpg"
+    ]
   }
+  
 
 ],
 
